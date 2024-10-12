@@ -4,9 +4,10 @@ Ushbu loyiha Windows 11 operatsion tizimini aktivatsiya qilish uchun kerakli vos
 
 ## Qanday Ishlatiladi:
 
-1. **Zip-faylni yuklab oling** va o'z kompyuteringizda saqlang.
-2. Zip-faylni oching.
-3. `activator.bat` faylini ishga tushiring.
+1. Sahifaning yuqori qismida joylashgan **"<> Code"** tugmasini bosing.
+2. Ochilgan menyuda **"Download ZIP"** tugmasini bosing.
+3. Zip-fayl yuklab olingandan so'ng, uni kompyuteringizda oching.
+4. Ochilgan papkadan `activator.bat` faylini toping va ustiga ikki marta bosib ishga tushiring.
 
 Shunchaki ushbu faylni ishlating, Windows 11 avtomatik tarzda aktivatsiya qilinadi.
 
