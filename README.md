@@ -18,4 +18,4 @@ Shunchaki ushbu faylni ishlating, Windows 11 avtomatik tarzda aktivatsiya qilina
 
 ## Bizni kuzatib boring:
 
-[YouTube](https://youtube.com/@muxacode) | [Instagram](https://instagram.com/muxacodee) | [Telegram](https://t.me/Muxacodee)
+[YouTube](https://youtube.com/@muxacode) | [Instagram](https://instagram.com/muxacodee) | [Telegram](https://t.me/Muxacodee) | [Github](https://github.com/muxacodee)
